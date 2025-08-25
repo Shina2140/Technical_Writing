@@ -1,8 +1,4 @@
 # Technical_Writing
-Certainly! Here is a condensed version of a README template that you can copy and paste into your own README file. Remember to replace placeholders with your project's specifics.
-
-
-```markdown
 # Project Name
 
 ## Table of Contents
